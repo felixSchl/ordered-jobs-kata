@@ -1,0 +1,18 @@
+{
+  "name": "the-ordered-jobs-kata",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel/register"
+  },
+  "author": "Felix Schlitter <felixschlitter@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.10.1",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23"
+  }
+}
